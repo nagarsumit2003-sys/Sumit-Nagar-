@@ -1,0 +1,5 @@
+{
+  "name": "Code to SVG Generator",
+  "description": "A web tool that allows users to paste HTML and CSS code, view a live preview, and export the complete visual render as a downloadable SVG image.",
+  "requestFramePermissions": []
+}
